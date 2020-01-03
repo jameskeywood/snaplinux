@@ -1,2 +1,2 @@
-# snaplinux
-A repository for the Arch based Snap Linux distribution
+# Snap Linux
+A lightweight, Arch based Linux distribution focusing on simplicity.

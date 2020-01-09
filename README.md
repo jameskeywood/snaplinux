@@ -1,7 +1,7 @@
 # Snap Linux
 A lightweight, Arch based Linux distribution focusing on simplicity.
 
-To install the ISO image for this distribution, check out www.sourceforge.com/projects/snaplinux.
+To install the ISO image for this distribution, check out www.sourceforge.com/projects/snaplinux. The build files can also be found at this URL.
 
 I am using Archiso to build this Arch based distribution. For more information on Archiso, I would recommend checking the ArchWiki: https://wiki.archlinux.org/index.php/Archiso.
 

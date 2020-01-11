@@ -1,0 +1,2 @@
+- Custom installer
+- Custom desktop enviroment

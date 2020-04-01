@@ -1,5 +1,5 @@
 # Snap Linux
-A lightweight, Arch based Linux distribution focusing on simplicity.
+A lightweight, Arch based Linux distribution focusing on efficiency.
 
 To install the ISO image for this distribution, check out www.sourceforge.com/projects/snaplinux. The build files can also be found at this URL.
 

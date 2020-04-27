@@ -1,2 +1,2 @@
 # Snap Linux
-A lightweight, Arch based Linux installer focusing on efficiency.
+A lightweight, Arch based Linux installer focusing on efficiency

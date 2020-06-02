@@ -42,9 +42,13 @@ then
 else
   echo -e "Wireless network detected\n"
   echo -e "Configure wireless network"
+  echo -e "Please identify and enter your wireless network device:\n"
+  ip link
+  read -p "Device:" device
+  echo -e "Device saved\n"
   read -n 1 -s -r -p "Press any key to continue"
-  wifi-menu
-fi
+  wifi-menu $device
+fi:
 read -n 1 -s -r -p "Press any key to continue"
 
 # connect to the internet

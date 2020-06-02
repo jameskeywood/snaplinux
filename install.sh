@@ -48,7 +48,7 @@ else
   echo -e "Device saved\n"
   read -n 1 -s -r -p "Press any key to continue"
   wifi-menu $device
-fi:
+fi
 read -n 1 -s -r -p "Press any key to continue"
 
 # connect to the internet
